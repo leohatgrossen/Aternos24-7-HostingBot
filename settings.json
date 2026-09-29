@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "Far1ands",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "klassensmp-NUeu.aternos.me",
+    "port": 56387,
     "version": "",
     "try-creative": false
   },
@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "I like to play Minecraft!"
+        "Ich halte stolz diesen server am laufen! Ich bin der bot von Leo!",
+        "Ich bin der Server bot der den server immer am laufen lässt :) ignoriere diese Nachricht."
       ]
     },
     "chat-log": true,
